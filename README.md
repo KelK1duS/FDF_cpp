@@ -1,2 +1,2 @@
 Le projet est de faire FdF en CPP.
-J'apprecie enormement l'oriente objet ainsi que le projet fdf de 42 donc je me lance.
+J'apprécie énormément l'orienté objet ainsi que le projet FdF de 42 donc je me lance.
